@@ -1,0 +1,11 @@
+.ropeproject
+.vim
+.idea
+.tags
+.vscode
+.env
+.venv/
+.venv
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
